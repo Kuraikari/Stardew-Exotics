@@ -1,0 +1,12 @@
+{
+  "$schema": "https://smapi.io/schemas/manifest.json",
+  "Name": "Exotic Fruits",
+  "Author": "Kuraikari",
+  "Version": "1.0.0",
+  "MinimumApiVersion": "3.13.0",
+  "Description": "A collection of JsonAssets that adds some new fruits that are rather exotic",
+  "UniqueID": "Kuraikari.ExoticFruits",
+  "ContentPackFor": {
+    "UniqueID": "spacechase0.JsonAssets"
+  }
+}
